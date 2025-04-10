@@ -41,4 +41,4 @@ PageTitlePicture.css = `
 }
 `
 
-export default (() => PageTitle) satisfies QuartzComponentConstructor
+export default (() => PageTitlePicture) satisfies QuartzComponentConstructor
