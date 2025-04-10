@@ -1,1 +1,12 @@
-/Users/bertone/Documents/obsidian-vaults/grimoire/Notas Principais/One shot learning.md
+2024-11-03 20:24
+Status: #child
+Tags: [[ms960]] [[machine learning]]
+
+# One shot learning
+Problema de treinamento de uma rede neural para reconhecimento de uma classe com 1 ou poucos exemplos de treinamento. Classificadores multic
+
+Um exemplo é no reconhecimento facial. Uma possibilidade para isso é o treinamento de uma função distância entre duas imagens.
+
+Uma boa forma de aprender essa função é com [[Siamese Neural Network]]
+# References
+[[Aula 13 MS960.pdf]]
