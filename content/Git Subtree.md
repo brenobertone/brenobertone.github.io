@@ -1,6 +1,9 @@
-2024-09-18 23:00
-Status: #baby
-Tags:
+---
+date: 2024-09-18
+draft: false
+tags:
+---
+
 
 # Git Subtree
 É uma forma de juntar repositórios distintos.

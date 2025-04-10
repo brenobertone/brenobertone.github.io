@@ -1,6 +1,10 @@
-2024-08-13 21:31
-Status: #child 
-Tags: [[métodos II]]
+---
+date: 2024-08-13
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Derivada Lateral
 Seja uma função $f$ e um ponto $x_0$. A derivada lateral é quando nos aproximamos de $x_0$ positivamente ou negativamente. 

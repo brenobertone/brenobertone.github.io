@@ -1,6 +1,10 @@
-2024-08-25 17:04
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-08-25
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Teorema da Aproximação de Weiertrass
 Seja $f$ uma função real contínua em um compacto. Ela pode ser aproximada uniformemente por polinômios

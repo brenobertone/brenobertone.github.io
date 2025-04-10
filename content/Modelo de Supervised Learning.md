@@ -1,6 +1,11 @@
-2024-09-21 12:43
-Status: #child
-Tags: [[machine learning]] [[ms960]]
+---
+date: 2024-09-21
+draft: false
+tags:
+  - machine_learning
+  - ms960
+---
+
 
 # Modelo de Supervised Learning
 O conjunto de treinamento é representado por:

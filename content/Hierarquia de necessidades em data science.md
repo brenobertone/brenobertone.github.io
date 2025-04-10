@@ -1,6 +1,9 @@
-2024-09-17 21:36
-Status: #baby
-Tags:
+---
+date: 2024-09-17
+draft: false
+tags:
+---
+
 
 # Hierarquia de necessidades em data science
 Essa imagem mostra a relevância dos processos.

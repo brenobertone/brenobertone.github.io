@@ -1,6 +1,11 @@
-2024-09-21 14:39
-Status: #baby
-Tags: [[machine learning]] [[ms960]]
+---
+date: 2024-09-21
+draft: false
+tags:
+  - machine_learning
+  - ms960
+---
+
 
 # Multilayer Perceptron
 Rede neural vanilla.

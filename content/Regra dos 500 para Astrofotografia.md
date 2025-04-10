@@ -1,6 +1,9 @@
-2024-09-29 20:18
-Status: #baby
-Tags:
+---
+date: 2024-09-29
+draft: false
+tags:
+---
+
 
 # Regra dos 500 para Astrofotografia
 É uma diretriz para evitar que os objetos celestes apareçam borrado devido à rotação da Terra.

@@ -1,6 +1,10 @@
-2024-09-12 14:23
-Status: #baby
-Tags: [[métodos II]]
+---
+date: 2024-09-12
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Translação do delta de Dirac
 A translação $\delta(x - a)$ é interpretada como:

@@ -1,6 +1,10 @@
-2024-09-12 14:30
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-12
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Escala e reflexão delta de Dirac
 Queremos definir $\delta(ax)$, $a \neq 0$. 

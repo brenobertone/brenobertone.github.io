@@ -1,6 +1,10 @@
-2024-11-07 23:26
-Status: #baby
-Tags: [[métodos II]]
+---
+date: 2024-11-07
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Classificação de EDPs lineares de segunda ordem
 Na página 188 do PDF:

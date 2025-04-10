@@ -1,6 +1,10 @@
-2024-10-12 14:15
-Status: #baby
-Tags: [[matematica IV]]
+---
+date: 2024-10-12
+draft: false
+tags:
+  - matematica_IV
+---
+
 
 # Lema de Jordan
 É útil na hora de separar o caminho das integrais reais calculadas em variáveis complexas.

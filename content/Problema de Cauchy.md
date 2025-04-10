@@ -1,6 +1,10 @@
-2024-11-17 16:22
-Status: #baby
-Tags: [[métodos II]]
+---
+date: 2024-11-17
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Problema de Cauchy
 

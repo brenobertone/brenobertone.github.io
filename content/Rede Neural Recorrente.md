@@ -1,6 +1,11 @@
-2024-11-18 14:27
-Status: #baby
-Tags: [[ms960]] [[machine learning]]
+---
+date: 2024-11-18
+draft: false
+tags:
+  - ms960
+  - machine_learning
+---
+
 
 # Rede Neural Recorrente
 Modelo de rede mais utilizado para lidar com dados sequenciais. 

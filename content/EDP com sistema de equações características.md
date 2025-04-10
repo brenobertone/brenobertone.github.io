@@ -1,6 +1,10 @@
-2024-10-17 22:23
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-10-17
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # EDP com sistema de equações características
 Seja o problema:

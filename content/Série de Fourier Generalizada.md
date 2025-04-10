@@ -1,6 +1,10 @@
-2024-09-04 20:22
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-04
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Série de Fourier Generalizada
 Seja $\{ \phi_n(x)\}_{n=0}^\infty$ um conjunto funções ortogonais em $[a, b]$ com peso $\rho$.

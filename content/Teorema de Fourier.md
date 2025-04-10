@@ -1,6 +1,10 @@
-2024-09-30 22:47
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-30
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Teorema de Fourier
 A [[Série de Fourier]] converge para 

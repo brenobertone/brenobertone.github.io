@@ -1,6 +1,11 @@
-2024-09-25 19:56
-Status: #baby
-Tags: [[machine learning]] [[ms960]]
+---
+date: 2024-09-25
+draft: false
+tags:
+  - machine_learning
+  - ms960
+---
+
 
 # Rede Neural Convolucional
 Tipo de rede mais usado no processamento de imagens.

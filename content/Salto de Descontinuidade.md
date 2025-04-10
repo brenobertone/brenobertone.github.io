@@ -1,6 +1,10 @@
-2024-09-15 16:00
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-15
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Salto de Descontinuidade
 O salto de descontinuidade é a diferença entre os limites laterais na descontinuidade

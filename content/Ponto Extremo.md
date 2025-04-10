@@ -1,6 +1,10 @@
-2024-08-20 16:28
-Status: #baby
-Tags: [[programação linear]]
+---
+date: 2024-08-20
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Ponto Extremo
 Um ponto extremo é aquele que não pode ser representado como uma combinação linear convexa de dois pontos distintos.

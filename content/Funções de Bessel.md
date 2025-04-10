@@ -1,6 +1,10 @@
-2024-09-20 00:39
-Status: #baby
-Tags: [[métodos I]]
+---
+date: 2024-09-20
+draft: false
+tags:
+  - métodos_I
+---
+
 
 # Funções de Bessel
 As funções de Bessel de primeira espécie $J_n(x)$ são soluções da equação diferencial de Bessel de ordem $n$, dada por:

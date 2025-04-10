@@ -1,6 +1,10 @@
-2024-09-26 22:33
-Status: #child
-Tags:  [[calculo numerico]]
+---
+date: 2024-09-26
+draft: false
+tags:
+  - calculo_numerico
+---
+
 
 # Problema numérico de equação quadrática
 ![[Pastedimage20240926220201.png|450]]![[Pastedimage20240926221759.png|450]]

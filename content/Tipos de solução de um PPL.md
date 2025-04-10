@@ -1,6 +1,10 @@
-2024-09-15 11:51
-Status: #baby
-Tags: [[programação linear]]
+---
+date: 2024-09-15
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Tipos de solução de um PPL
 - Única

@@ -1,6 +1,10 @@
-2024-09-12 14:56
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-12
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Argumento funcional no delta de Dirac
 Não entendi a demonstração do jayme

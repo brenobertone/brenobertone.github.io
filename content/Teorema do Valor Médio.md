@@ -1,6 +1,10 @@
-2024-08-13 21:46
-Status: #child
-Tags: [[analise real]]
+---
+date: 2024-08-13
+draft: false
+tags:
+  - analise_real
+---
+
 
 # Teorema do Valor Médio
 Seja $f$ uma função contínua. Todos os valores entre $f(a)$ e $f(b)$ são obtidos pela função.

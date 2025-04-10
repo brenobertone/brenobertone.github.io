@@ -1,6 +1,10 @@
-2024-09-15 21:06
-Status: #baby
-Tags: [[métodos I]]
+---
+date: 2024-09-15
+draft: false
+tags:
+  - métodos_I
+---
+
 
 # Problema de Sturm-Liouville
 

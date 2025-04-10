@@ -1,6 +1,10 @@
-2024-08-25 22:15
-Status: #child
-Tags: [[programação linear]]
+---
+date: 2024-08-25
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Combinação de pontos
 #### Imports

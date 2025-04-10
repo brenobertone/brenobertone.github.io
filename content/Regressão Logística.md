@@ -1,6 +1,11 @@
-2024-08-29 16:45
-Status: #child
-Tags: [[machine learning]] [[ms960]]
+---
+date: 2024-08-29
+draft: false
+tags:
+  - machine_learning
+  - ms960
+---
+
 
 # Regressão Logística
 Sejam:

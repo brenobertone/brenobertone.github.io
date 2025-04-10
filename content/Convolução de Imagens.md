@@ -1,6 +1,11 @@
-2024-09-25 17:00
-Status: #baby
-Tags: [[machine learning]] [[ms960]]
+---
+date: 2024-09-25
+draft: false
+tags:
+  - machine_learning
+  - ms960
+---
+
 
 # Convolução de Imagens
 Sejam:

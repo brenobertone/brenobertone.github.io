@@ -1,6 +1,10 @@
-2024-10-12 12:48
-Status: #baby
-Tags: [[matematica IV]]
+---
+date: 2024-10-12
+draft: false
+tags:
+  - matematica_IV
+---
+
 
 # Teorema dos Resíduos
 ![[Pastedimage20241012140916.png|450]]

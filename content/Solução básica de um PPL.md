@@ -1,6 +1,10 @@
-2024-09-15 12:13
-Status: #baby
-Tags: [[programação linear]]
+---
+date: 2024-09-15
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Soluções básicas de um PPL
 São as soluções de um [[Problema de Programação Linear]] com mais variáveis que equações de restrição.

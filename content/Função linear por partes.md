@@ -1,6 +1,9 @@
-2024-09-15 12:59
-Status: #baby
-Tags: 
+---
+date: 2024-09-15
+draft: false
+tags:
+---
+
 
 # Função linear por partes
 Uma função é linear por partes se pode ser escrita como:

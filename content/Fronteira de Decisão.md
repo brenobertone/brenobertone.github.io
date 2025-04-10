@@ -1,6 +1,11 @@
-2024-09-21 12:52
-Status: #baby
-Tags: [[machine learning]] [[ms960]]
+---
+date: 2024-09-21
+draft: false
+tags:
+  - machine_learning
+  - ms960
+---
+
 
 # Fronteira de Decisão
 Em um problema de classificação binária:

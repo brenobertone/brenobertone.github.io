@@ -1,6 +1,10 @@
-2024-09-03 14:22
-Status: #child
-Tags: [[programação linear]]
+---
+date: 2024-09-03
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Direção Factível
 Uma direção $d$ é factível se, e somente se, respeita as condições do [[Problema de Programação Linear]].

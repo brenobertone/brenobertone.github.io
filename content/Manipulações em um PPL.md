@@ -1,6 +1,10 @@
-2024-08-20 15:03
-Status: #child
-Tags: [[programação linear]]
+---
+date: 2024-08-20
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Manipulações em um PPL
 Podemos realizar diversas manipulações na modelagem de um [[Problema de Programação Linear]], afim de obter as devidas formas canônicas

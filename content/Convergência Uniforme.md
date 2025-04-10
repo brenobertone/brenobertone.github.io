@@ -1,6 +1,10 @@
-2024-08-10 23:04
-Status: #adult
-Tags: [[métodos II]] 
+---
+date: 2024-08-10
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Convergência Uniforme
 É quando uma sequência converge para todo x com a mesma "velocidade", isto é, a partir de um $n$ o a convergência vale para todo o domínio igualmente.

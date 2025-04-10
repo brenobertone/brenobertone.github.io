@@ -1,6 +1,11 @@
-2024-10-24 16:55
-Status: #child
-Tags: [[ms960]] [[machine learning]]
+---
+date: 2024-10-24
+draft: false
+tags:
+  - ms960
+  - machine_learning
+---
+
 
 # Siamese Neural Network
 É a associação do output da mesma rede com inputs distintos.

@@ -1,6 +1,10 @@
-2024-09-25 15:31
-Status: #baby
-Tags: [[machine learning]]
+---
+date: 2024-09-25
+draft: false
+tags:
+  - machine_learning
+---
+
 
 # Backpropagation
 É um método de aproximação do gradiente.

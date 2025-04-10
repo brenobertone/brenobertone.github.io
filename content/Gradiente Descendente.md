@@ -1,6 +1,11 @@
-2024-09-21 13:29
-Status: #baby
-Tags: [[machine learning]] [[ms960]]
+---
+date: 2024-09-21
+draft: false
+tags:
+  - machine_learning
+  - ms960
+---
+
 
 # Gradiente Descendente
 É uma estratégia para encontrar um mínimo de uma função $f(x)$ seguindo a direção $-\nabla f(x)$

@@ -1,6 +1,10 @@
-2024-11-07 13:41
-Status: #baby
-Tags: [[estruturas de dados]]
+---
+date: 2024-11-07
+draft: false
+tags:
+  - estruturas_de_dados
+---
+
 
 # Função de Hashing
 Uma função que recebe um objeto arbitrário e retorna uma posição em um vetor.

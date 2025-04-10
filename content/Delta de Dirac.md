@@ -1,6 +1,10 @@
-2024-09-03 23:50
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-03
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Delta de Dirac
 Uma sequência ${\delta_n}$ é delta quando:

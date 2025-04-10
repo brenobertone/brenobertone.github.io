@@ -1,6 +1,10 @@
-2024-09-19 16:16
-Status: #baby
-Tags: [[estruturas de dados]]
+---
+date: 2024-09-19
+draft: false
+tags:
+  - estruturas_de_dados
+---
+
 
 # Linked lists
 Uma lista ligada é formada por elementos da forma:

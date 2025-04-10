@@ -1,6 +1,10 @@
-2024-08-29 17:09
-Status: #child
-Tags: [[machine learning]]
+---
+date: 2024-08-29
+draft: false
+tags:
+  - machine_learning
+---
+
 
 # Entropia Cruzada
 Essa é uma função custo que relaciona duas distribuições de probabilidade.

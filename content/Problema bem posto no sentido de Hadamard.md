@@ -1,6 +1,10 @@
-2024-11-09 17:32
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-11-09
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Problema bem posto no sentido de Hadamard
 É um problema que tem:

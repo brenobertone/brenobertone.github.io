@@ -1,6 +1,10 @@
-2024-09-04 00:00
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-04
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Função Teste
 É uma função infinitamente diferenciável e com suporte compacto

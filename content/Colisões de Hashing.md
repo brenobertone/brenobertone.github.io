@@ -1,6 +1,10 @@
-2024-11-07 13:47
-Status: #baby
-Tags: [[estruturas de dados]]
+---
+date: 2024-11-07
+draft: false
+tags:
+  - estruturas_de_dados
+---
+
 
 # Colisões de Hashing
 Métodos para lidar com objetos diferentes que vão para a mesma posição. 

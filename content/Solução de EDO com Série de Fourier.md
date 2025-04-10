@@ -1,6 +1,10 @@
-2024-09-19 21:36
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-19
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Solução de EDO com Série de Fourier
 O processo consiste em:

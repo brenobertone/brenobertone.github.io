@@ -1,6 +1,10 @@
-2024-11-21 10:53
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-11-21
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # EDPs com separação de variáveis em dimensões maiores
 

@@ -1,6 +1,10 @@
-2024-09-15 15:54
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-15
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Derivada Distribucional
 De forma análoga à [[Derivada do delta de Dirac]], definimos a derivada distribucional como:

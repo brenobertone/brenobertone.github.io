@@ -1,6 +1,11 @@
-2024-11-03 20:24
-Status: #child
-Tags: [[ms960]] [[machine learning]]
+---
+date: 2024-11-03
+draft: false
+tags:
+  - ms960
+  - machine_learning
+---
+
 
 # One shot learning
 Problema de treinamento de uma rede neural para reconhecimento de uma classe com 1 ou poucos exemplos de treinamento. Classificadores multic

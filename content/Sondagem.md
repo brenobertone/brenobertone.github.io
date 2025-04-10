@@ -1,6 +1,10 @@
-2024-11-07 13:55
-Status: #baby
-Tags: [[estruturas de dados]]
+---
+date: 2024-11-07
+draft: false
+tags:
+  - estruturas_de_dados
+---
+
 
 # Sondagem
 Estratégia para lidar com [[Colisões de Hashing]]

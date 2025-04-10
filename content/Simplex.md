@@ -1,6 +1,10 @@
-2024-09-18 21:03
-Status: #child
-Tags: [[programação linear]]
+---
+date: 2024-09-18
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Simplex
 1. Encontrar uma [[Solução básica de um PPL]] factível $x^*_n$

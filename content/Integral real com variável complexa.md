@@ -1,6 +1,10 @@
-2024-10-17 21:51
-Status: #child
-Tags: [[matematica IV]]
+---
+date: 2024-10-17
+draft: false
+tags:
+  - matematica_IV
+---
+
 
 # Integral real com variável complexa
 Seja a integral $\int_{-\infty}^\infty \frac{1}{x^2+1}dx$

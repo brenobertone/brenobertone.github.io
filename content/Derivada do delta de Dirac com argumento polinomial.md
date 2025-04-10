@@ -1,6 +1,10 @@
-2024-09-17 14:09
-Status: #baby
-Tags: [[métodos II]]
+---
+date: 2024-09-17
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Derivada do delta de Dirac com argumento polinomial
 ![[Pastedimage20240917140925.png|150]]

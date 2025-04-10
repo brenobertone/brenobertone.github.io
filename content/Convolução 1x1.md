@@ -1,6 +1,11 @@
-2024-10-06 19:22
-Status: #baby
-Tags: [[machine learning]] [[ms960]]
+---
+date: 2024-10-06
+draft: false
+tags:
+  - machine_learning
+  - ms960
+---
+
 
 # Convolução 1x1
 É uma ferramenta para manipular a profundidade de uma imagem sem mudar suas dimensões.

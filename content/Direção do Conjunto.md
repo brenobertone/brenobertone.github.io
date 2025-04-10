@@ -1,6 +1,10 @@
-2024-09-03 14:30
-Status: #child
-Tags: [[programação linear]]
+---
+date: 2024-09-03
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Direção do Conjunto
 Uma direção do conjunto é aquela que é sempre factível.

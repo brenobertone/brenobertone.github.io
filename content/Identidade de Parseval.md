@@ -1,6 +1,10 @@
-2024-08-25 16:32
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-08-25
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Identidade de Parseval
 É quando temos a igualdade da [[Desigualdade de Bessel]]

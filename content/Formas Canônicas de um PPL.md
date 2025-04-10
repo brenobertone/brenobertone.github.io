@@ -1,6 +1,10 @@
-2024-08-20 14:43
-Status: #child
-Tags: [[programação linear]]
+---
+date: 2024-08-20
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Formas Canônicas de um PPL
 A forma canônica é quando temos: 

@@ -1,6 +1,10 @@
-2024-10-08 22:09
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-10-08
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Transformada de Fourier
 A transformada de Fourier de $f(x)$ é definida como:

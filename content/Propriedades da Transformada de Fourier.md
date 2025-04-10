@@ -1,6 +1,10 @@
-2024-10-12 14:46
-Status: #baby
-Tags: [[métodos II]]
+---
+date: 2024-10-12
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Propriedades da Transformada de Fourier
 ![[Pastedimage20241012144645.png|450]]

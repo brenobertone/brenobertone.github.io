@@ -1,6 +1,10 @@
-2024-10-12 14:11
-Status: #baby
-Tags: [[matematica IV]]
+---
+date: 2024-10-12
+draft: false
+tags:
+  - matematica_IV
+---
+
 
 # Resíduo de funções
 Podemos calcular o resíduo de polos de ordem $n$ com a fórmula: 

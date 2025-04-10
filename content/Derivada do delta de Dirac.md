@@ -1,6 +1,10 @@
-2024-09-14 14:24
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-14
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Derivada do delta de Dirac
 Realizando integrais por partes, conseguimos definir a n-ésima derivada do [[Delta de Dirac]].

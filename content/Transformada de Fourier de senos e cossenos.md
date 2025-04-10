@@ -1,6 +1,10 @@
-2024-10-12 15:33
-Status: #baby
-Tags: [[métodos II]]
+---
+date: 2024-10-12
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Transformada de Fourier de senos e cossenos
 Saindo da definição de [[Transformada de Fourier]] e da fórmula de Euler, podemos definir essas transformadas como:

@@ -1,6 +1,10 @@
-2024-10-22 14:48
-Status: #child
-Tags: [[programação linear]]
+---
+date: 2024-10-22
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Custo Relativo
 É o critério para escolha quem entra na base $B$ do [[Simplex]]. 

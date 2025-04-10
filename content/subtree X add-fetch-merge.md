@@ -1,6 +1,10 @@
-2024-09-23 22:58
-Status: #baby
-Tags: [[git]]
+---
+date: 2024-09-23
+draft: false
+tags:
+  - git
+---
+
 
 # subtree X add-fetch-merge
 

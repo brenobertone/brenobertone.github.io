@@ -1,6 +1,10 @@
-2024-08-20 15:16
-Status: #child
-Tags: [[programação linear]]
+---
+date: 2024-08-20
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Mudança de variável em PPL
 Em um problema padrão temos $x>=0$.

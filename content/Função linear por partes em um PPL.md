@@ -1,6 +1,10 @@
-2024-09-15 14:02
-Status: #baby
-Tags: [[programação linear]]
+---
+date: 2024-09-15
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Função linear por partes em um PPL
 Podemos lidar com funções lineares por partes em um PPL criando variáveis auxiliares, definindo a função objetivo com elas e aplicando as restrições do problema.

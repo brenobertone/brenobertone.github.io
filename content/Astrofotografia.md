@@ -1,6 +1,9 @@
-2024-09-29 20:12
-Status: #baby
-Tags:
+---
+date: 2024-09-29
+draft: false
+tags:
+---
+
 
 # Astrofotografia
 

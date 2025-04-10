@@ -1,6 +1,11 @@
-2024-11-12 15:10
-Status: #child
-Tags: [[ms960]] [[machine learning]]
+---
+date: 2024-11-12
+draft: false
+tags:
+  - ms960
+  - machine_learning
+---
+
 
 # Triplet Loss
 É uma função custo que associa um input de referência com um input associado e com um não associado. 

@@ -1,6 +1,10 @@
-2024-09-12 14:44
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-12
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Multiplicação do delta de Dirac por uma função
 Queremos encontrar uma interpretação para $f(x)\delta(x-a)$, onde $f(x)$ é infinitamente diferenciável. 

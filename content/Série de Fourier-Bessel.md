@@ -1,6 +1,10 @@
-2024-09-20 00:36
-Status: #baby
-Tags: [[métodos II]]
+---
+date: 2024-09-20
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Série de Fourier-Bessel
 A representação em série de uma função:

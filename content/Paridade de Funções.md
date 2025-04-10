@@ -1,6 +1,10 @@
-2024-08-25 17:23
-Status: #child
-Tags: [[analise real]]
+---
+date: 2024-08-25
+draft: false
+tags:
+  - analise_real
+---
+
 
 # Paridade de Funções
 ### $f$ é par

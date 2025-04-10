@@ -1,6 +1,10 @@
-2024-09-04 19:41
-Status: #child
-Tags: [[métodos I]]
+---
+date: 2024-09-04
+draft: false
+tags:
+  - métodos_I
+---
+
 
 # Polinômios de Legendre
 São uma família de polinômios ortogonais no intervalo $[-1, 1]$

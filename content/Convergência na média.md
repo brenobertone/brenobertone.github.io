@@ -1,6 +1,10 @@
-2024-08-25 16:23
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-08-25
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Convergência na média
 Temos uma função $f$ e uma função polinomial de funções ortogonais $\phi_n$

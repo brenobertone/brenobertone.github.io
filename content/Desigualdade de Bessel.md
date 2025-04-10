@@ -1,6 +1,10 @@
-2024-08-24 18:34
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-08-24
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Desigualdade de Bessel
 A soma dos coeficientes de fourier quadráticos é menor ou igual a integral ao quadrado da função sobre pi

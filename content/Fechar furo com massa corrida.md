@@ -1,6 +1,9 @@
-2024-09-01 12:51
-Status: #baby
-Tags:
+---
+date: 2024-09-01
+draft: false
+tags:
+---
+
 
 # Fechar furo com massa corrida
 

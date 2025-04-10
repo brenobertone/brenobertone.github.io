@@ -1,6 +1,10 @@
-2024-08-25 16:46
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-08-25
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Fenômeno de Gibbs
 Acontece quando usamos uma [[Série de Fourier]] para aproximar uma função descontínua.

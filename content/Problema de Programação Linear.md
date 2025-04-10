@@ -1,6 +1,10 @@
-2024-08-17 10:15
-Status: #child
-Tags: [[programação linear]]
+---
+date: 2024-08-17
+draft: false
+tags:
+  - programação_linear
+---
+
 
 # Problema de Programação Linear
 Sejam $$x \in \mathbb{R}^n, A \in \mathbb{R}^{m\times n}, b \in \mathbb{R}^m$$ 

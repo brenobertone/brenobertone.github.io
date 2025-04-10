@@ -1,6 +1,10 @@
-2024-11-11 20:59
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-11-11
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Forma canônica de EDPs
 ![[Pastedimage20241114143542.png]]

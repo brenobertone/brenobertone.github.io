@@ -1,6 +1,10 @@
-2024-08-10 22:30
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-08-10
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Série de Fourier
 É uma série trigonométrica usada para representar funções periódicas. A forma geral de uma série de Fourier é dada por:

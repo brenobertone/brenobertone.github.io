@@ -1,6 +1,11 @@
-2024-09-25 20:33
-Status: #baby
-Tags: [[machine learning]] [[ms960]]
+---
+date: 2024-09-25
+draft: false
+tags:
+  - machine_learning
+  - ms960
+---
+
 
 # Camada de Pooling
 Uma camada de pooling funciona como uma sliding windows em uma imagem, buscando sumarizar de alguma forma a região.

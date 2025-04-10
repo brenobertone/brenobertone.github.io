@@ -1,6 +1,10 @@
-2024-10-12 14:25
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-10-12
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Transformada de Fourier do Delta de Dirac
 OBS: O Jayme tem uma demonstração mais complicada, mas não entendo o que tem de errado nessa. 

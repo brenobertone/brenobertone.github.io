@@ -1,6 +1,10 @@
-2024-10-06 16:23
-Status: #baby
-Tags: [[machine learning]]
+---
+date: 2024-10-06
+draft: false
+tags:
+  - machine_learning
+---
+
 
 # One-vs-Rest
 Estratégia de classificação multiclasse.

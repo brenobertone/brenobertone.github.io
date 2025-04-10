@@ -1,6 +1,10 @@
-2024-09-14 14:32
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-09-14
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Primitiva da delta de Dirac
 A função degrau é uma primitiva $H'(x) = \delta(x)$, como podemos observar abaixo. 

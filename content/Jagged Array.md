@@ -1,6 +1,10 @@
-2024-09-12 15:02
-Status: #baby
-Tags: [[estruturas de dados]]
+---
+date: 2024-09-12
+draft: false
+tags:
+  - estruturas_de_dados
+---
+
 
 # Jagged Array
 Um jagged array é uma forma de representar arrays multidimensionais utilizando um vetor de ponteiros. 

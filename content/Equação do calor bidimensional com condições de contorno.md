@@ -1,6 +1,10 @@
-2024-11-18 20:10
-Status: #baby
-Tags: [[métodos II]]
+---
+date: 2024-11-18
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Equação do calor bidimensional com condições de contorno
 

@@ -1,6 +1,10 @@
-2024-10-08 16:31
-Status: #child
-Tags: [[métodos II]]
+---
+date: 2024-10-08
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Integral de Fourier
 Seja $f(x)$ contínua por partes, com [[Derivada Lateral]] à esquerda e à direita e $\int_{-\infty}^{\infty}|f(x)|dx < \infty$.

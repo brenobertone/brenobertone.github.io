@@ -1,6 +1,10 @@
-2024-09-04 19:11
-Status: #child
-Tags: [[métodos I]]
+---
+date: 2024-09-04
+draft: false
+tags:
+  - métodos_I
+---
+
 
 # Fórmula de Rodrigues
 A Fórmula de Rodrigues é uma expressão usada para gerar uma sequência de polinômios ortogonais. Ela tem a forma:

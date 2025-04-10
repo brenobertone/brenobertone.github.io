@@ -1,6 +1,10 @@
-2024-08-10 22:38
-Status: #adult
-Tags: [[métodos II]]
+---
+date: 2024-08-10
+draft: false
+tags:
+  - métodos_II
+---
+
 
 # Extensão Periódica
 É quando calculamos os coeficientes de uma [[Série de Fourier]] em uma função não 2π-periódica.
