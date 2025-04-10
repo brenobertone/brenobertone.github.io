@@ -9,12 +9,12 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
   const iconPath = joinSegments(baseDir, "static/eu.jpeg")
   return (
-    <h2 class={classNames(displayClass, "page-title")}>
+    <div class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
-        <img class="Logo" src={iconPath} alt={title}/>
+        <img class="Logo" src={iconPath}/>
       </a>
-      <a href={baseDir}>{title}</a>
-    </h2>
+      <a href={baseDir} class="title-text">{title}</a>
+    </div>
   )
 }
 
@@ -23,13 +23,21 @@ PageTitle.css = `
   font-size: 1.75rem;
   margin: 0;
   font-family: var(--titleFont);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .Logo {
-  max-height: 150px;
+  max-height: 200px;
   min-height: 50px;
-  max-width: 150px;
+  max-width: 200px;
   min-width: 50px;
   margin: 0;
+}
+.title-text {
+  margin-top: 0.5rem;
+
 }
 `
 
