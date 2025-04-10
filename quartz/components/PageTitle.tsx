@@ -13,6 +13,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
       <a href={baseDir}>
         <img class="Logo" src={iconPath} alt={title}/>
       </a>
+      <a href={baseDir}>{title}</a>
     </h2>
   )
 }
@@ -24,9 +25,9 @@ PageTitle.css = `
   font-family: var(--titleFont);
 }
 .Logo {
-  max-height: 195px;
+  max-height: 150px;
   min-height: 50px;
-  max-width: 212px;
+  max-width: 150px;
   min-width: 50px;
   margin: 0;
 }
