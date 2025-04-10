@@ -1,0 +1,1 @@
+/Users/bertone/Documents/obsidian-vaults/grimoire/Notas Principais/Solução básica de um PPL.md

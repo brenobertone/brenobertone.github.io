@@ -1,0 +1,1 @@
+/Users/bertone/Documents/obsidian-vaults/grimoire/Notas Principais/Primitiva da delta de Dirac.md

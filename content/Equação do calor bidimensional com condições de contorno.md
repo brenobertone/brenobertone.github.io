@@ -1,0 +1,1 @@
+/Users/bertone/Documents/obsidian-vaults/grimoire/Notas Principais/Equação do calor bidimensional com condições de contorno.md

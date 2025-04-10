@@ -1,0 +1,1 @@
+/Users/bertone/Documents/obsidian-vaults/grimoire/Notas Principais/Série de Fourier Generalizada.md

@@ -1,0 +1,1 @@
+/Users/bertone/Documents/obsidian-vaults/grimoire/Notas Principais/Teorema do Valor Médio.md

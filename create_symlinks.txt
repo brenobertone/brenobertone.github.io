@@ -1,0 +1,3 @@
+ln -s ~/Documents/obsidian-vaults/grimoire/Notas\ Principais/* ~/Documents/obsidian-vaults/quartz/content
+ln -s ~/Documents/obsidian-vaults/grimoire/attachments/imagens\ em\ notas/* ~/Documents/obsidian-vaults/quartz/content
+ln -s ~/Documents/obsidian-vaults/grimoire/attachments/Matemática\ Aplicada/* ~/Documents/obsidian-vaults/quartz/content

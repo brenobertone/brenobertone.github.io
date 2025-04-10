@@ -1,0 +1,1 @@
+/Users/bertone/Documents/obsidian-vaults/grimoire/Notas Principais/Classificação de EDPs Lineares de Segunda Ordem.md
