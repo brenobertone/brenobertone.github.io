@@ -2,7 +2,7 @@
 date: 2024-09-26
 draft: false
 tags:
-  - calculo_numerico
+  - math/calculo_numerico
 ---
 
 

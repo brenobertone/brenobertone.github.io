@@ -2,7 +2,7 @@
 date: 2024-11-17
 draft: false
 tags:
-  - métodos_II
+  - math/métodos_II
 ---
 
 

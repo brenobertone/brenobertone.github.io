@@ -2,7 +2,7 @@
 date: 2024-08-25
 draft: false
 tags:
-  - analise_real
+  - math/analise_real
 ---
 
 

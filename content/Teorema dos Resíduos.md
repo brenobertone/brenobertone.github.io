@@ -2,7 +2,7 @@
 date: 2024-10-12
 draft: false
 tags:
-  - matematica_IV
+  - math/matematica_IV
 ---
 
 

@@ -2,7 +2,7 @@
 date: 2024-10-22
 draft: false
 tags:
-  - programação_linear
+  - math/programação_linear
 ---
 
 
