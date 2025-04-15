@@ -36,11 +36,37 @@ Para a união, usamos uma [[Disjunção Fuzzy]]
 $$(A\cup B)(x) = \mathcal{D}(A(x), B(x)), \ \ \forall x \in U$$
 ### Complemento
 Definimos uma negação fuzzy como uma função crecente como $\eta: [0, 1] \rightarrow [0, 1]$ onde $\eta(0)=1$ e $\eta(1)=0$. Em uma negação forte, $\eta(\eta(a))=a$. O complemento é definido como: $$A^C(x) = \eta(A(x)), \ \ \forall x \in U$$
+### Caracterização e Representação
+Um conjunto Fuzzy é definido como **normal** se possui ao menos um elemento com pertinência 1:
+$$\sup_{u \in U} A(u) = 1 \iff \forall \epsilon > 0, \, \exists u \in U \,:\, A(u) > 1 - \epsilon$$
+E **subnormal** se:
+$$\sup_{u \in U} A(u) < 1$$
+O **cerne** é definido como: $$Cerne(A) = \{u \in U \,:\, A(u) = 1\}$$
+Assim, podemos observar que o $Cerne(A)$ é o conjunto clássico com todos os elementos de pertinência 1. Se o conjunto fuzzy é subnormal, $Cerne(A) = \emptyset$
 
+O **suporte** de A é definido como o conjunto clássico de todos os elementos que possuam *alguma* pertinência: $$Supp(A) = \{u \in U \,:\, A(u) > 0\}$$
+E finalmente, definimos o $\alpha$-nível como o conjunto de elementos com pertinência maior ou igual a $\alpha$: $$[A]^\alpha = \{u \in U \,:\, A(u) \geq \alpha\}, \, \forall \alpha \in(0,1]$$
+E se $U$ for um espaço topológico, $[A]^0$ é o fecho de $Supp(A)$, isto é: $$[A]^0 = \overline{\text{Supp}(A)}$$
+??????????????????????????????????????????????????????????
+![[file-20250415112032899.png|400]]
 ## Números Fuzzy
-Uma abstração que
+Uma abstração que pode representar um o número "aproximadamente $a$".
+
+É definido como um conjunto fuzzy $A \in \mathcal{F}(\mathbb{R})$ em que todos seus $\alpha \text{-níveis}$ são intervalos compactos e não vazios.
+
+Vamos denotar os $\alpha \text{-níveis}$ de um numero fuzzy como $[A]^\alpha = [a_I^\alpha, a_S^\alpha], \, \, \forall \alpha \ \in [0,1]$
+**Exemplo:** $\alpha \text{-níveis}$ de um número fuzzy triangular $\text{T(a, m, b)}$:
+- $[a_I^\alpha, a_S^\alpha] = [(m-a)\alpha + a, (m-b)\alpha + b], \, \, \forall \alpha \ \in [0,1]$
+
+
+
 
 # References
 [[Aula 01 - Motivação à Teoria dos Conjuntos Fuzzy e Revisão da Teoria Clássica.pdf]]
 [[Aula 02 - Introdução aos Conjuntos Fuzzy e suas Operações Principais.pdf]]
 [[Aula 03 - Sistemas Baseados em Regras. Aplicação 1_ Máquina de Lavar Roupas.pdf]]
+[[Aula 07 - Caracterização e Representação de Conjuntos Fuzzy.pdf]]
+
+
+![[file-20250414201536370.png]]
+![[file-20250414201917813.png]]
