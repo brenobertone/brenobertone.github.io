@@ -23,7 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+    Component.Explorer(),
   ],
   left: [
     Component.DesktopOnly(Component.PageTitlePicture()),
@@ -38,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.TagList(),
   ],
   right: [
     Component.Graph(),
