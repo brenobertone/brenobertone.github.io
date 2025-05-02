@@ -1,6 +1,7 @@
 ---
 tags:
   - math/probability
+  - me310
 draft: false
 date: 2025-04-20
 ---
