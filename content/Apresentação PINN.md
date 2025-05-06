@@ -14,7 +14,7 @@ Mas como?
 
 Primeiro, escolhemos algum problema modelado por uma EDP. 
 
-O principal exemplo estudado aqui é a equação de Burgers: $\frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \nu \frac{\partial^2 u}{\partial x^2}$
+O principal exemplo estudado aqui é a equação de Burgers: $\frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \nu \frac{\partial ^2 u}{\partial x^2}$
 
 ---
 
@@ -31,15 +31,7 @@ $$f_\theta(x, t) := \frac{\partial u_\theta}{\partial t} + u_\theta \frac{\parti
 ---
 
 E então se minimiza a seguinte loss, com gradiente descendente:
-$$
-
-\mathcal{L} = \mathcal{L}_{\text{data}} + \mathcal{L}_{\text{physics}} =
-
-\sum_{i=1}^{N_u} |u_\theta(x_i, t_i) - u_i|^2 +
-
-\sum_{i=1}^{N_f} |f_\theta(x_i, t_i)|^2
-
-$$
+$$\mathcal{L} = \mathcal{L}_{\text{data}} + \mathcal{L}_{\text{physics}} = \sum_{i=1}^{N_u} |u_\theta(x_i, t_i) - u_i|^2 + \sum_{i=1}^{N_f} |f_\theta(x_i, t_i)|^2$$
 
 ---
 
@@ -79,7 +71,63 @@ Um simples experimento, disponível em [Visualization of Shock Profiles and Resi
 
 ---
 
-Uma solução para isso é usar a forma fraca da EDP, onde
+Uma solução para isso é usar a forma fraca da EDP.
+
+Nela usamos uma função teste $\varphi$ e integrais por partes para "retirar" as derivadas da solução $u$:
+
+$$\int_{[0,T]} \int_{\mathbb{R}} u \, \varphi_t + f(u) \, \varphi_x \, dx \, dt + \int_{\mathbb{R}} u_0 \, \varphi(0, \cdot) \, dx = 0,
+$$
+
+---
+
+Porém, essa forma não garante unicidade de solução.
+
+---
+
+Para isso, introduzimos o conceito de solução entropicamente admissível:
+
+
+
+---
+
+Além disso, é necessário usar uma norma adequada. 
+
+Nesse caso, a escolha foi a $L^2(0, T; W^{-1, p}(D))$:
+$$\|\mathcal{R}[\tilde{u}]\|_{L^2([0, T); W^{-1, p}(D))}^2 = \int_{[0, T)} \left( \sup_{\varphi \in S} \int_D f(\tilde{u})_x \, \varphi \, dx \right)^2 dt$$
+
+---
+
+É possível mostrar que a norma $W^{-1,p}$ dentro da integral é equivalente ao maximizador do funcional 
+$$I(w) = \int_D vwdx - \frac{1}{q} \int_D |\nabla w|^q dx$$
+
+---
+
+No artigo, foi usado um esquema revezando maximização e minimização com 3 redes neurais:
+
+- $u_\theta$: Rede para aproximar a solução. Minimiza a loss.
+
+E as redes dos problemas duais, que maximizam a loss:
+- $\varphi_\chi$: Rede para incorporar o resíduo da EDP.
+- $\xi_\nu$: Rede para incorporar entropia.
+
+---
+
+Usando esses conceitos, foi possível implementar a solução do choque estacionário nesse notebook [Weak-PINN for Burgers' Equation with Entropy Constraints](https://colab.research.google.com/drive/1cNC3Mr7Nl5GDSZwvMBg6FlbxzY0CfJm_?usp=sharing)
+![[file-20250506084046930.png|300]]![[file-20250506084055870.png|300]]![[file-20250506084107965.png|300]]
+
+---
+
+No entanto, a solução está mudando ao longo do tempo, o que não é esperado. 
+
+![[file-20250506084248257.png|300]]![[file-20250506084254402.png|300]]![[file-20250506084303106.png|300]]
+
+---
+
+E alguns pontos do artigo que ainda não entendi muito bem:
+
+- Condições de contorno fracas
+- Causalidade
+- Tive muita dificuldade de executar e interpretar o código do autor
 
 
 ---
