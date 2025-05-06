@@ -34,5 +34,6 @@ Usually, they are not unique, but more conditions can be added, such as [[Entrop
 
 
 # References
+[[Improving Weak PINNs for Hyperbolic Conservation Laws- Dual Norm Computation, Boundary Conditions and Systems.pdf]]
 [Weak Solutions of a PDE and Why They Matter](https://www.youtube.com/watch?v=zQJkve_hnHk&ab_channel=BeyondtheBigBang)
 [Weak formulation](https://en.wikipedia.org/wiki/Weak_formulation)
