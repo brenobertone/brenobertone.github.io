@@ -22,5 +22,8 @@ $(\eta, q)$ are a convex entropy-entropy flux pair $\iff$ $\eta$ is strictly con
 Let $u$ be a weak solution. 
 $u$ is an entropy-admissible solution $\iff$ $\eta(u)_t + q(u)_x \le 0 \ \text{in} \ [0, T)\times\mathbb{R} \quad \forall (\eta, q) \ \text{convex entropy-entropy flux pair}$ 
 
+## Example
+In the inviscid [[Burger's Equation]]: $f(u) = \frac{1}{2}u^2$, $\eta(u) = \frac{1}{2}u^2$ , $q(u) = \frac{1}{3}u^3$
+
 # References
 [[Improving Weak PINNs for Hyperbolic Conservation Laws- Dual Norm Computation, Boundary Conditions and Systems.pdf]]

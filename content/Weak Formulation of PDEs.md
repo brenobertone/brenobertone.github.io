@@ -7,7 +7,7 @@ date: 2025-04-27
 ---
 # Weak Formulation of PDEs
 Some PDEs have solutions that after some point lead to a discontinuity in the solution.
-An example is the inviscid [[Burger's Equation]]. 
+An example is the inviscid [[Burger's Equation]].
 Let's see how we can work around it using the weak formulation:
 $$\frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \frac{\partial u}{\partial t} +\frac{\partial}{\partial x} (\frac{u^2}{2}) = 0$$
 Let $\varphi$ be a test function which is $0$ on the boundaries $\partial\Omega$ and has square-integrable derivatives

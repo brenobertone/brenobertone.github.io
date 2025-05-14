@@ -30,16 +30,4 @@ $$
 2. **Embeddings**: If $p > 2$, then $L^2(0, T; L^2(D)) \subset L^2(0, T; W^{-1, p}(D))$ under mild assumptions.
 3. **Weak Convergence**: Bounded sequences in $L^2(0, T; W^{-1, p}(D))$ admit weakly convergent subsequences.
 
-## Applications
-- Used in **Navier-Stokes equations** ($p=2$ case).
-- Appears in **nonlinear parabolic problems** (e.g., $p$-Laplacian evolution equations).
-
-## Example
-For a function $f \in L^2(0, T; W^{-1, p}(D))$, its action on a test function $\phi \in L^2(0, T; W_0^{1, p'}(D))$ is given by:
-$$
-\langle f, \phi \rangle = \int_0^T \langle f(t), \phi(t) \rangle \, dt.
-$$
-
 ## References
-- Evans, *Partial Differential Equations* (for Sobolev spaces).
-- Lions, *Quelques Méthodes de Résolution des Problèmes aux Limites Non Linéaires* (for Bochner spaces).
